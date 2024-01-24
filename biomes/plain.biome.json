@@ -1,0 +1,13 @@
+{
+    "display_name" : "Plains",
+    "surface" : {
+        "variation_mode" : "noise",
+        "surface_tiles" : [
+            0,
+            4
+        ]
+    },
+    "terrain" : {
+        "noise_amplitude" : 1
+    }
+}
